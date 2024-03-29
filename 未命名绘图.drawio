@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" modified="2024-03-29T02:40:51.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="n7p5nTM84yPtUrV9xS3t" version="24.1.0" type="github">
+  <diagram name="第 1 页" id="BMY1wpquwcuwsKym6dwS">
+    <mxGraphModel dx="2040" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="60" width="230" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-4" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-793" y="275" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-5" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-793" y="365" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-6" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-793" y="465" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="60" width="230" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="60" width="230" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-9" value="人员" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-10" value="考勤" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-11" value="区域" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-12" value="命令" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-818" y="285" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-13" value="业务流" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-818" y="375" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-14" value="事件" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-818" y="475" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-15" value="新增人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-16" value="禁用人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-17" value="创建人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-18" value="导出人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-19" value="人员离职" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="305" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-20" value="添加资质" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-21" value="添加资质" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-22" value="人员已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="465" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-23" value="资质已添加" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="465" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-24" value="创建白名单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-25" value="白名单已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="465" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-27" value="新增白名单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-28" value="导入白名单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-29" value="导出白名单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-32" value="创建考勤记录" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="365" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-33" value="排班管理" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="365" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-34" value="创建班制班次" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="365" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-35" value="考勤记录已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="460" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-36" value="班制班次已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="460" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-37" value="排班已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="460" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-39" value="新增班制" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-40" value="编辑班制" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-41" value="导出班制" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-42" value="新增班次" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-438" y="305" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-44" value="导出排班" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-45" value="编辑排班" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="170" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-46" value="创建排班" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-47" value="权限：管理员" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.33;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-49" value="创建区域" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="365" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-50" value="区域配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="365" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-51" value="工作面配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="365" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-52" value="新增区域" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-53" value="区域脱岗" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-54" value="危险区域配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-55" value="重点区域配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-56" value="限制区域配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-57" value="准入区域配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-58" value="新增工作面" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-59" value="导出工作面" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-60" value="区域已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-61" value="区域已配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BUG9emMriUXz3Q2CUFyL-62" value="工作面已配置" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
